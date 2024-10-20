@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/6e0ecd26-16aa-4443-ac18-170817fd2d76)![image](https://github.com/user-attachments/assets/d6e3c3e0-2ddd-4f90-be4c-2fa557bfde80)# Grant Guru
+
+# Grant Guru
 
 A faster way for Indian non-profits to find and apply for their next grant
 
